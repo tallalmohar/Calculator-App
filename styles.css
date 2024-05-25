@@ -56,9 +56,9 @@ body{
     grid-column-end: 4;
 }
 .button:hover{
-    background-color: rgb(195, 194, 194);
+    background-color: rgb(239, 239, 239);
 }
 
 .btn-op:hover{
-    background-color: #b37e3b;
+    background-color: rgb(228, 176, 107);
 }
