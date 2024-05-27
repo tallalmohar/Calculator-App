@@ -62,3 +62,14 @@ body{
 .btn-op:hover{
     background-color: rgb(228, 176, 107);
 }
+.display-screen{
+    color: white;
+    font-size: 2em;
+    text-align: right;
+    padding: 10px;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
